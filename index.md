@@ -11,9 +11,19 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
+The concepts of Multivariate Regression Analysis and Gradient Boosting.![image](https://user-images.githubusercontent.com/54397720/155562379-ba059cb7-d619-4263-bd88-ecd6083acf04.png)
+
+
 # Header 1
+What is XGBoost?![image](https://user-images.githubusercontent.com/54397720/155562568-48031da3-6843-4e73-b8bb-c139976d4dae.png)
 ## Header 2
+Cons of using XGBoost![image](https://user-images.githubusercontent.com/54397720/155562607-0fc2ebd7-a47d-4e17-8d6b-88fdd53805a0.png)
 ### Header 3
+what is Extreme Gradient Boosting(XGBoost)	![image](https://user-images.githubusercontent.com/54397720/155562631-906b9300-ea5e-43d5-9759-c4c4fd336915.png)
+#### Header 4
+Multivariate Regression		![image](https://user-images.githubusercontent.com/54397720/155562688-4c5fc399-7a42-4fba-bb97-ab5f7fc5ede5.png)
+##### Header 5
+Where multivariate regression can be used?![image](https://user-images.githubusercontent.com/54397720/155562739-44284ff3-657b-41fa-93aa-7ec86c88efca.png)
 
 - Bulleted
 - List
